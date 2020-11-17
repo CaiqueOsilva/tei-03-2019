@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 
 echo -e "Atualizando as lista do Apt"
     #esse comando faz a atualização de todos os source.list do sistema
